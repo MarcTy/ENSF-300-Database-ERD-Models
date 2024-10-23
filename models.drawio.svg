@@ -1,0 +1,14 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="311px" height="331px" viewBox="-0.5 -0.5 311 331" content="&lt;mxfile&gt;&lt;diagram id=&quot;Njokexvf1tlsNQO4RZyk&quot; name=&quot;Page-1&quot;&gt;zZZNc4MgEIZ/jXcRTew1adpeesqhZypEmao4iFX767tG0FDt2E7sx0n23V1YHxbUwfusuZekSB4FZanjubRx8K3jeQhhFx6d0vbKduP3Qiw51UGjcORvTIs6L644ZaUVqIRIFS9sMRJ5ziJlaURKUdthJ5HaqxYkZhPhGJF0qj5xqpJeDQN31B8YjxOzMnK1JyMmWAtlQqioLyR8cPBeCqH6UdbsWdrBM1z6vLtPvENhkuXqKwlen/BK0kq/m65LteZlocSiG7IGZtxRUT2fPQgMKaqcsm4qF6w64YodCxJ17hp2HrREZakO1isxqVjzabVoYADNw0TGlGwhxCRsNbbW9IO263EXkEGbXOxAqDWiNz4eph7ZwEDjmUeFr0K1AIeURd+oJ950QNeghUObFg6mtMIfguUvw4IEOK9g7Ay2Hthh0P+Ame9+6LDw95gFy8xSnp+BKSlehqvHW/2cAQaLgoeC6TnbzGBAK2DYXIGBcgktwUUOdimqTl8bDV5ukLkbyF+BzPZfk/FxYDfNZuZyniFz830yYI6fyLPv4kcDH94B&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="120" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="2" y="2" width="116" height="76" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="210" y="250" width="80" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="212" y="252" width="76" height="76" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <ellipse cx="270" cy="120" rx="40" ry="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <ellipse cx="270" cy="120" rx="36" ry="36" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 70 120 L 230 120" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 50 100 L 90 100" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" transform="rotate(90,70,100)" pointer-events="all"/>
+        <path d="M 225 205 L 315 205" fill="none" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-miterlimit="10" transform="rotate(90,270,205)" pointer-events="all"/>
+    </g>
+</svg>
