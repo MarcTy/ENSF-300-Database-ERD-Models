@@ -53,8 +53,6 @@ There are no derived attributes in the parent class
 
 ![EER Diagram Image](../models.drawio.svg)
 
-### Explanation
-
 ## Teacher
 Teacher: The teacher is an entity in our database model with 5 attributes and 2 relationships with other entities.
 First name(Fname), Last name(Lname), ID, Preferred prefix and Grades they teach are the attributes of Teacher.
