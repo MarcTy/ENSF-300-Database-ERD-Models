@@ -55,6 +55,7 @@ There are no derived attributes in the parent class
 
 ### Explanation
 
+## Teacher
 Teacher: The teacher is an entity in our database model with 5 attributes and 2 relationships with other entities.
 First name(Fname), Last name(Lname), ID, Preferred prefix and Grades they teach are the attributes of Teacher.
 It has ID as its primary key attribute and Grades they teach as a Multivalued attribute.
@@ -64,12 +65,14 @@ It also has a subclass called Lead Teacher.
 Each Lead Teacher manages several Teachers.
 Teachers also have a relationship with students where they teach them.
 
+## Emergency Contact
 Emergency Contact: The teacher is an entity in our database model with 3 attrubutes and 2 relationships with others entitites. 
 First name(Fname), Last name(Lname) and Phone number are the attributes of Teacher.
 It has its Primary key attribute as Phone number because you would need one phone number to call in time of emergencies.
 It has a relationship with parent which shows that parents can be the emergency contact and they would be the ones to be contacted when those times arrive.
 It also has a relationship with student where every student must have at least one emergency contact.
 
+## Lead Teacher
 Lead Teacher: The Lead Teacher is another entity in our database model.
 The Lead Teacher is a subclass of the teacher entity in our database model.
 The Lead Teacher has all the attributes and relattionships that the Teacher entity posseses.
