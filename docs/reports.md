@@ -76,6 +76,7 @@ The Lead Teacher is a subclass of the teacher entity in our database model.
 The Lead Teacher has all the attributes and relattionships that the Teacher entity posseses.
 The Lead Teacher also has the attribute Managed teachers. This is a multivariable attribute that has a list of the Teachers' IDs that they manage. 
 The Lead Teacher also has the unique relationship with the Teacher entity where 1 Lead Teacher manages multiple Teachers.
+
 =======
 ### Explanation
 >>>>>>> dbfc3f598b15ef5d099c5237271d4518967b244e
