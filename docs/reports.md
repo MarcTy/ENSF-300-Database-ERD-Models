@@ -48,11 +48,6 @@ The Parent has attributes: LName for Last Name, Email which is used as a primary
 #### Attribute Derivation
 There are no derived attributes in the parent class
 
-## EER Diagram
-### Diagram: 
-
-![EER Diagram Image](../models.drawio.svg)
-
 ## Teacher
 Teacher: The teacher is an entity in our database model with 5 attributes and 2 relationships with other entities.
 First name(Fname), Last name(Lname), ID, Preferred prefix and Grades they teach are the attributes of Teacher.
@@ -76,3 +71,7 @@ The Lead Teacher is a subclass of the teacher entity in our database model.
 The Lead Teacher has all the attributes and relattionships that the Teacher entity posseses.
 The Lead Teacher also has the attribute Managed teachers. This is a multivariable attribute that has a list of the Teachers' IDs that they manage. 
 The Lead Teacher also has the unique relationship with the Teacher entity where 1 Lead Teacher manages multiple Teachers.
+## EER Diagram
+### Diagram: 
+
+![EER Diagram Image](../models.drawio.svg)
